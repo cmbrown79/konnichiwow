@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://konnichiwow.cr8fconclave.com/sitemap.xml
